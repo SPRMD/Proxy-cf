@@ -1,5 +1,5 @@
 # Proxy-cf: 极简极速 VLESS + XHTTP + CF SaaS 一键部署
-
+注意：下面操作严重违反了 CF 的 TOS，请谨慎操作，本项目仅作为学习交流使用。
 这是一个适用于 Debian/Ubuntu 系统的极简一键部署脚本，采用最新的 **XHTTP** 传输协议结合 **VLESS**，并搭配 **Cloudflare SaaS** 实现极速、高匿的代理节点搭建。
 本项目使用 Gemini 辅助完成。
 ## ✨ 脚本特性
